@@ -50,4 +50,3 @@ function definirRank(pontos) {
 
 // Teste da função (substitua pelo login real do app)
 atualizarRank("blackmask_user");
-
